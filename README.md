@@ -1,6 +1,10 @@
 # ProyectoAtletas
 Realizar diagrama de clases Subir código a gitlab o github Desarrollar aplicación con programación orientada a objetos en Java Revisión en clase de funcionamiento
 
+<p align="center">
+<img width="467" height="747" alt="RegistroAtletas" src="https://github.com/user-attachments/assets/afd81ab5-6b59-4722-9cda-84398451ae04" />
+</p>
+
 ```java
 
 import java.util.*;
