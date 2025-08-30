@@ -247,16 +247,3 @@ public class RegistroAtletas {
         }
     }
 }
-
-
-https://github.com/dabe-designer/ProyectoAtletas.git
-
-gh repo clone dabe-designer/ProyectoAtletas
-
-
-
-
-
-
-
-
